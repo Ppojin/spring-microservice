@@ -9,4 +9,4 @@ spring:
     config:
       server:
         git: 
-          uri: https://github.com/ppojin/spring-microservice.git
+          uri: https://github.com/joneconsulting/spring-microservice.git

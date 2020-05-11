@@ -36,7 +36,20 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.MsaConfigServerApplication (1)">
+    <configuration name="MsaConfigServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="msa-architecture-config-server-master.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.msa.config.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.msa.config.server.MsaConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MsaConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="msa-echosystem.msa-architecture-config-server-master.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.msa.config.server.MsaConfigServerApplication" />
@@ -44,6 +57,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MsaConfigServerApplication (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -59,7 +77,7 @@
       <workItem from="1556175375496" duration="254000" />
       <workItem from="1556206977594" duration="772000" />
       <workItem from="1569213077778" duration="110000" />
-      <workItem from="1589180336697" duration="534000" />
+      <workItem from="1589180336697" duration="2523000" />
     </task>
     <servers />
   </component>
@@ -67,10 +85,42 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="334" y="49" key="#MsaConfigServerApplication" timestamp="1589180462045">
+    <state x="334" y="49" key="#MsaConfigServerApplication" timestamp="1589180993407">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
-    <state x="334" y="49" key="#MsaConfigServerApplication/0.23.1440.819@0.23.1440.819" timestamp="1589180462045" />
+    <state x="334" y="49" key="#MsaConfigServerApplication/0.23.1440.819@0.23.1440.819" timestamp="1589180993407" />
+    <state width="1398" height="360" key="GridCell.Tab.0.bottom" timestamp="1589181046948">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="360" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1589181046948" />
+    <state width="1398" height="360" key="GridCell.Tab.0.center" timestamp="1589181046946">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="360" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1589181046946" />
+    <state width="1398" height="360" key="GridCell.Tab.0.left" timestamp="1589181046946">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="360" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1589181046946" />
+    <state width="1398" height="360" key="GridCell.Tab.0.right" timestamp="1589181046947">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="360" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1589181046947" />
+    <state width="1398" height="360" key="GridCell.Tab.1.bottom" timestamp="1589181046950">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="360" key="GridCell.Tab.1.bottom/0.23.1440.819@0.23.1440.819" timestamp="1589181046950" />
+    <state width="1398" height="360" key="GridCell.Tab.1.center" timestamp="1589181046949">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="360" key="GridCell.Tab.1.center/0.23.1440.819@0.23.1440.819" timestamp="1589181046949" />
+    <state width="1398" height="360" key="GridCell.Tab.1.left" timestamp="1589181046949">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="360" key="GridCell.Tab.1.left/0.23.1440.819@0.23.1440.819" timestamp="1589181046949" />
+    <state width="1398" height="360" key="GridCell.Tab.1.right" timestamp="1589181046950">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1398" height="360" key="GridCell.Tab.1.right/0.23.1440.819@0.23.1440.819" timestamp="1589181046950" />
   </component>
   <component name="masterDetails">
     <states>
